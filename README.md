@@ -1,4 +1,4 @@
-## Meus contatos :iphone:
+## Contact me :iphone:
 
 <p align="center">
     <a href="https://github.com/florianbaptista">
