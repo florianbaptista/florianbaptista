@@ -14,7 +14,6 @@
     </a>
 </p>
 
-
 ## Languages skills :nerd_face:
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
