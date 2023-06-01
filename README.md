@@ -42,20 +42,5 @@
 
 ## Stats
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-    
-<p align="center">
-  <a href="https://github.com/florianbaptista/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianbaptista&layout=compact&langs_count=7&theme=dracula"
-    />
-  <a href="https://github.com/florianbaptista/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=florianbaptista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/florianbaptista/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/florianbaptista/github-stats-transparent/output/generated/languages.svg)
