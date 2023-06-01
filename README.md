@@ -1,6 +1,8 @@
 ## Contact me :iphone:
 
 <p align="center">
+    <a href="https://florianbaptista.github.io/">
+        <img src="https://icons8.com/icon/3685/globe">
     <a href="https://github.com/florianbaptista">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/florianbaptista">
     </a>
