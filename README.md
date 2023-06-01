@@ -42,5 +42,8 @@
 
 ## Stats
 
-![](https://raw.githubusercontent.com/florianbaptista/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/florianbaptista/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+  <a href="https://github.com/florianbaptista/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=florianbaptista&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/florianbaptista/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianbaptista&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+</p>
